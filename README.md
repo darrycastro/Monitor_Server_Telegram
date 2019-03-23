@@ -6,4 +6,5 @@ Script para Monitoriar Servidor Centos con mensajes de **Telegram**
 
 ## Install
 1. Solo con Copiar el Codigo en la ruta /opt/Datos
-2. El archivo heard.sh se le debe crear un crontab, para su verificacion cada hora en el servidor
+2. El archivo **heard.sh** se le debe crear un crontab, para su verificacion cada hora en el servidor
+
