@@ -1,10 +1,9 @@
 # Monitor_Server_Telegram
-Script para Monitoriar Servidor Centos con mensajes de Telegram
+Script para Monitoriar Servidor Centos con mensajes de **Telegram**
 
-Dependencias
-============
+## Dependencias
 
 
-Install
-=======
+## Install
+
 -- Solo con Copiar el Codigo en la ruta /opt/Datos
