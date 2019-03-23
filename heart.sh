@@ -9,8 +9,8 @@
 ####################################################################################################
 
 #Datos de Telegram
-chat_id="12345678"
-token="270725811:AAHN48xNUoR8d1rr8OktO3uesWHR5p324567"
+chat_id=""
+token=""
 
 #Mensaje de Inicio del Servidor
 msg="Iniciando el Monitor del Servidor"
