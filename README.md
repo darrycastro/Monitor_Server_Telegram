@@ -1,7 +1,7 @@
 # Monitor_Server_Telegram
 Script para Monitoriar Servidor Centos con mensajes de **Telegram**
 
-El Script Monitor.sh supervisa los 3 componentes as esenciales del sistema,
+El Script **Monitor.sh** supervisa los 3 componentes as esenciales del sistema,
 CPU
 Memoria
 Disco
