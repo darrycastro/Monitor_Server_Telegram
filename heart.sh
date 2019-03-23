@@ -11,8 +11,11 @@
 #Datos de Telegram
 chat_id="12345678"
 token="270725811:AAHN48xNUoR8d1rr8OktO3uesWHR5p324567"
+
+#Mensaje de Inicio del Servidor
 msg="Iniciando el Monitor del Servidor"
 
+#Funcion de Validacion 
 function valor()
 {
 if (( $(ps -ef | grep -v grep | grep $1 | wc -l) > 0 ))
